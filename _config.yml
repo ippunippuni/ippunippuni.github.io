@@ -1,12 +1,14 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            NECO workshop
+description:      The first international workshop on NEws and publiC Opinion (NECO)
 logo:             logo3.png
 disqus_shortname: hmfaysal
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:        	  http://hmfaysal.github.io
+# url:        	  http://ippunippuni.github.io
+url:
+baseurl: ""
 
 # Owner/author information
 owner:
