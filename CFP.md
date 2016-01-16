@@ -3,9 +3,6 @@ layout: page
 title: Call For Papers
 permalink: /cfp/index.html
 ---
-> **Computational Journalism** is the application of computing and computational thinking to the activities of journalism including *information gathering, organization and sensemaking, communication* and *presentation, and dissemination and public response to news information*, all while upholding core values of journalism such as accuracy and verifiability.
->
-> by Nick Diakopoulos
 
 **Computational journalism** has been an emerging discipline in recent years.  A lot of inspiring data-driven studies on news production and consumption, news audience, news bias, and tools have been published and discussed. Some conferences, such as computation+journalism symposium, have started to offer places for computer scientists and journalists to help each other to discover new research directions.
 
