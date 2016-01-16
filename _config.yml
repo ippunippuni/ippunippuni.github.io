@@ -1,7 +1,7 @@
-title:            NECO workshop
-description:      The first international workshop on NEws and publiC Opinion (NECO)
+title:            The first international workshop on NEws and publiC Opinion
+description:      NECO 2016
 logo:             logo3.png
-disqus_shortname: hmfaysal
+disqus_shortname: JisunAn
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
@@ -16,14 +16,14 @@ owner:
   avatar:         hmfaysal.jpg
   email:          jan@qf.org.qa
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Qatar Computing Research Institute, HBKU
+  description:    Qatar Computing Research Institute HBKU
   # Social networking links used in footer. Update and remove as you like.
   twitter:        JisunAn
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  facebook:       
+  github:               
+  instagram:      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
