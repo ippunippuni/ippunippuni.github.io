@@ -12,13 +12,13 @@ baseurl: ""
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jisun 
   avatar:         hmfaysal.jpg
-  email:          you@email.com
+  email:          jan@qf.org.qa
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Qatar Computing Research Institute, HBKU
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
+  twitter:        JisunAn
   facebook:       hmfaysal
   github:         hmfaysal      
   instagram:      hmfaysal
@@ -38,12 +38,20 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
-    url: /categories
-  - title: About
-    url: /hossain-mohd-faysal
+  - title: CFPs
+    url: /cfp
+  - title: Submission
+    url: /submission
+  - title: Organization
+    url: /organization
+  - title: Accepted papers
+    url: /acceptedpapers
+  # - title: Featured Posts
+  #   url: /featured
+  # - title: Categories
+  #   url: /categories
+  # - title: About
+  #   url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -72,8 +80,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://ippunippuni.github.io/'
+  relativeLinks: 'http://ippunippuni.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
