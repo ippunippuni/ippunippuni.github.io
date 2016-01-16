@@ -17,6 +17,6 @@ Paper acceptance notification: March 11, 2016
 
 Final camera-ready paper due: March 17,2016
 
-City Lab Workshops Day: May 17, 2016
+NECO Workshops Day: May 17, 2016
 
 You can submit your paper here.
