@@ -4,6 +4,8 @@ title: Call For Papers
 permalink: /cfp/index.html
 ---
 
+>
+
 **Computational journalism** has been an emerging discipline in recent years.  A lot of inspiring data-driven studies on news production and consumption, news audience, news bias, and tools have been published and discussed. Some conferences, such as computation+journalism symposium, have started to offer places for computer scientists and journalists to help each other to discover new research directions.
 
 On the other hands, social media has received a lot of attention from researchers who study public opinion. The data collected from social media is a valuable asset to see what people have in their mind about at the very moment. Election prediction based on Twitter is a good example of such efforts.  
