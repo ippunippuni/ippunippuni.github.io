@@ -1,0 +1,13 @@
+---
+layout: post
+published: true
+title: NECO 2016 website is up! 
+mathjax: false
+featured: true
+comments: false
+headline: NECO 2016 website is up!
+%categories: news
+%tag: news
+---
+
+This is an official website for the first International Workshop on NEws and publiC Opinion (NECO 2016). This workshop is part of the International Conference on Weblog and Social Media (ICWSM). 
