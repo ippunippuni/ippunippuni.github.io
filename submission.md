@@ -19,4 +19,4 @@ Final camera-ready paper due: March 17,2016
 
 NECO Workshops Day: May 17, 2016
 
-You can submit your paper here.
+You can submit your paper [here](https://easychair.org/conferences/?conf=neco2016).
