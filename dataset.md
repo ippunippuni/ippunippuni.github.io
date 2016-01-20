@@ -4,11 +4,14 @@ title: Dataset
 permalink: /dataset/index.html
 ---
 
+Coming soon!
+
+<!-- 
 [The New GDELT Visual Global Knowledge Graph (VGKG)](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)
 
 [GDELT 2.0: Our Global World in Realtime](http://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/)
 
-<!-- We encourage you to download GDELT dataset, explore it, learn something interesting about it, and submit a paper about it to NECO 2016.
+We encourage you to download GDELT dataset, explore it, learn something interesting about it, and submit a paper about it to NECO 2016.
 
 Good research topics might include...
 
