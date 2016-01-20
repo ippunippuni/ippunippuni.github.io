@@ -4,7 +4,11 @@ title: Dataset
 permalink: /dataset/index.html
 ---
 
-We encourage you to download GDELT dataset, explore it, learn something interesting about it, and submit a paper about it to NECO 2016.
+[The New GDELT Visual Global Knowledge Graph (VGKG)](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)
+
+[GDELT 2.0: Our Global World in Realtime](http://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/)
+
+<!-- We encourage you to download GDELT dataset, explore it, learn something interesting about it, and submit a paper about it to NECO 2016.
 
 Good research topics might include...
 
@@ -18,8 +22,7 @@ analysis of influence among bloggers
 
 But you should feel free to explore any aspect of the data that you feel would be of interest to the community. 
 
-[The New GDELT Visual Global Knowledge Graph (VGKG)](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)
-[GDELT 2.0: Our Global World in Realtime](http://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/)
+
 
 **GDELT project**
 
@@ -57,4 +60,4 @@ When citing this dataset in a paper, please use the following reference:
 
 
 Community
-We have a mailing list for discussing the datasets at http://groups.google.com/group/icwsm-data. Please join to talk about whatever you're doing with the data. In particular, if you are looking for groups to collaborate with, here's a forum for you. We also have a project at Google Code, http://code.google.com/p/icwsm-data/, where we can host tools and resources that you create to go along with the datasets. 
+We have a mailing list for discussing the datasets at http://groups.google.com/group/icwsm-data. Please join to talk about whatever you're doing with the data. In particular, if you are looking for groups to collaborate with, here's a forum for you. We also have a project at Google Code, http://code.google.com/p/icwsm-data/, where we can host tools and resources that you create to go along with the datasets.  -->
