@@ -7,7 +7,9 @@ description: "A quick guideline for submission"
 
 **Format**
 
-We solicit 6-pages research papers that will present original, previously unpublished, research. Each one of the accepted papers will be allocated a 15-minute slot during the workshop (12 minutes for presentation and 3 minutes for questions). All papers must follow AAAI formatting guidelines.
+We solicit both full (8-page long) and short (4-page long) research papers that will present original, previously unpublished, research. They must be at most 8- or 4-page long, including figures and references. All papers must follow AAAI formatting guidelines.
+
+Full paper authors will be allowed 25 minutes total (about a 20 minute talk with 5 minutes of questions) to present their work. Short paper authors will be allowed 15 minutes (about a 12-minute talk with 3 minutes of questions) to present their work.
 
 **Dates**
 

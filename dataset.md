@@ -4,7 +4,24 @@ title: Dataset
 permalink: /dataset/index.html
 ---
 
-Coming soon!
+>
+
+Computational journalism had been much depending on in-house, private data, and only a few researchers benefited from such data. Recently, there have been significant efforts to make valuable datasets publicly accessible for the research community.  We hope that NECO will be the place for researchers to discuss such datasets, including Yahoo News Feed dataset and GDELT dataset, as we introduce below.
+
+
+[Yahoo News Feed dataset, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75)  
+Yahoo has recently released a massive collection of user interactions on the news feeds of Yahoo services, including Yahoo News.  We appreciate Yahoo’s contribution to the research community and hope to see much inspiring works.
+
+
+
+[The GDELT Project](http://www.gdeltproject.org/)  
+The GDELT project is one of the largest data collection of news.  Supported by Google Ideas, it monitors "the world's broadcast, print, and web news" around the world (see details [GDELT 2.0](http://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/)). They From February 2015,  GDELT continuously adds experimental features, such as categorizing "all of the news imagery" (see details [Visual GKG](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)). 
+
+
+
+
+
+
 
 <!-- 
 [The New GDELT Visual Global Knowledge Graph (VGKG)](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)
