@@ -12,13 +12,13 @@ baseurl: ""
 
 # Owner/author information
 owner:
-  name:           Jisun 
-  avatar:         hmfaysal.jpg
-  email:          jan@qf.org.qa
+  name:           NECO 
+  avatar:         
+  email:          neco2016@easychair.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Qatar Computing Research Institute HBKU
+  description:    The First International Workshop on NEws and publiC Opinion
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        JisunAn
+  twitter:        neco_workshop
   facebook:       
   github:               
   instagram:      
