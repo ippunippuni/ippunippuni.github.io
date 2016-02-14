@@ -13,5 +13,19 @@ permalink: /organization/index.html
 **Dr. Fabrício Benevenuto** is an associate professor in the Computer Science Department of Federal University at Minas Gerais (UFMG). Fabrício received a Ph.D. in Computer Science in 2010, and his thesis received the most important Brazilian award, the CAPES best thesis award.  During his Ph.D., he held research intern positions at HP Labs (Palo Alto/CA) and MPI-SWS (Max Planck Institute for Software Systems). In 2013 Fabrício was elected member of the Brazilian Academy of Science. His research plans involve data mining, machine learning and natural language processing applied to extract knowledge from data to build innovative systems. His work on this field has led to a number of important publications and widely cited papers. Fabrício has been serving on TPC of top conferences in his field, such as ACM KDD, ACM WSDM, WWW, ACM SIGIR, ACM COSN, and ICWSM. The innovative aspect of his research has attracted the attention of several specialized blogs and even mass media channels such as The New York Times, BBC, The Huffington Post, MIT Tech Review, and New Scientist.   
 
 
-**Program Committee members**
+**Program Committee members** (This list will be updated continuously.)
+
+Angela Lee, University of Texas at Dallas 
+
+Arkaitz Zubiaga, University of Warwick
+
+Hitoshi Nishikawa, Tokyo Institute of Technology    
+
+Diego Saez-Trumper, Universitat Pompeu Fabra    
+
+Nicholas Diakopoulos, University of Maryland    
+
+Souneil Park, Telefonica Research   
+
+
 
