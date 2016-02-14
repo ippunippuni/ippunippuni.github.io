@@ -11,6 +11,8 @@ We solicit both full (8-page long) and short (4-page long) research papers that 
 
 Full paper authors will be allowed 25 minutes total (about a 20 minute talk with 5 minutes of questions) to present their work. Short paper authors will be allowed 15 minutes (about a 12-minute talk with 3 minutes of questions) to present their work.
 
+All accepted papers will be included in ICWSM workshop proceedings. However, you can opt out from the publication if you do not want to publish the work.
+
 **Dates**
 
 Papers submission: February 27, 2016
