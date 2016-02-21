@@ -15,7 +15,7 @@ All accepted papers will be included in ICWSM workshop proceedings. However, you
 
 **Dates**
 
-Papers submission: February 27, 2016
+Papers submission: February 27, 2016. (23:59:59 Hawaiian Time)
 
 Paper acceptance notification: March 11, 2016
 
