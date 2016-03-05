@@ -22,10 +22,21 @@ Arkaitz Zubiaga, University of Warwick
 Hitoshi Nishikawa, Tokyo Institute of Technology    
 
 Diego Saez-Trumper, Universitat Pompeu Fabra    
-
-Nicholas Diakopoulos, University of Maryland    
+Nicholas Diakopoulos, University of Maryland
 
 Souneil Park, Telefonica Research   
 
+Augustin Chaintreau, Columbia University
 
+Andreas Jungherr, University of Mannheim
+
+Ruth Garcia Gavilanes,  Oxford Internet Institute   
+
+Carlos  Castillo, Eurecat
+
+Yelena Mejova, Qatar Computing Research Institute
+
+Dmytro Karamshuk, King's College London
+
+Andrew Guess, New York University 
 
