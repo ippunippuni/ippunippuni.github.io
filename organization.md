@@ -21,7 +21,8 @@ Arkaitz Zubiaga, University of Warwick
 
 Hitoshi Nishikawa, Tokyo Institute of Technology    
 
-Diego Saez-Trumper, Universitat Pompeu Fabra    
+Diego Saez-Trumper, Universitat Pompeu Fabra
+
 Nicholas Diakopoulos, University of Maryland
 
 Souneil Park, Telefonica Research   
