@@ -19,6 +19,7 @@ Haewoon Kwak, Jisun An.
 Lucy X. Wang, Arthi Ramachandran, Augustin Chaintreau. 
 
 
+[Short paper]  
 **To Follow or not to Follow: Analyzing the Growth Patterns of the Trumpists on Twitter**  
 Yu Wang, Jiebo Luo, Richard Niemi and Yuncheng Li. 
 
