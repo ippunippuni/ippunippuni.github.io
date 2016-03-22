@@ -4,6 +4,9 @@ title: Accepted Papers
 permalink: /acceptedpapers/index.html
 ---
 
+>
+
+
 Matthew J. Williams, Iulia Cioroianu, Hywel T.P. Williams. *Different news for different views: Political news-sharing communities on social media through the UK General Election in 2015*
 
 
