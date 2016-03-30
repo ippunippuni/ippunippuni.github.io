@@ -21,7 +21,7 @@ Arkaitz Zubiaga, University of Warwick
 
 Hitoshi Nishikawa, Tokyo Institute of Technology    
 
-Diego Saez-Trumper, Universitat Pompeu Fabra
+Diego Saez-Trumper, Eurecat
 
 Nicholas Diakopoulos, University of Maryland
 
