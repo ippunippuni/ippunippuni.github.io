@@ -11,7 +11,7 @@ permalink: /acceptedpapers/index.html
 Matthew J. Williams, Iulia Cioroianu, Hywel T.P. Williams. 
 
 
-**Women Smile More and Look Younger than Men in the News: Analysis of Millions of News Photos through GDELT and Deep Learning-based Vision APIs**  
+**Revealing the Hidden Patterns of News Photos: Analysis of Millions of News Photos through GDELT and Deep Learning-based Vision APIs**  
 Haewoon Kwak, Jisun An. 
 
 
