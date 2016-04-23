@@ -15,7 +15,7 @@ Matthew J. Williams, Iulia Cioroianu, Hywel T.P. Williams.
 Haewoon Kwak, Jisun An. 
 
 
-**The Curse of Mass Appeal and How to Accurately Study Online Social Listening**  
+**Measuring Click and Share Dynamics on Social Media: A Reproducible and Validated Approach**  
 Lucy X. Wang, Arthi Ramachandran, Augustin Chaintreau. 
 
 
