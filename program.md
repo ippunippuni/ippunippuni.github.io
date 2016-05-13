@@ -11,6 +11,7 @@ permalink: /program/index.html
 
 
 Date: 17th May 2016 (Tuesday)
+
 Room: Quirinius, Maternushaus
 
 Regular paper: 20 mins for presentation, 5 mins for Q&A 
