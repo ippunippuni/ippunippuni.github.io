@@ -48,6 +48,8 @@ links:
     url: /organization
   - title: Accepted papers
     url: /acceptedpapers
+  - title: Program
+    url: /program
   # - title: Featured Posts
   #   url: /featured
   # - title: Categories
@@ -59,7 +61,11 @@ links:
 timezone:    America/New_York
 future:      true
 highlighter: rough
-markdown:    kramdown
+# markdown:    kramdown
+markdown:    redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
 paginate:    5
 paginate_path: "page:num"
 
