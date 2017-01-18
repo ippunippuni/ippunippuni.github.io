@@ -7,7 +7,7 @@ description: "A quick guideline for submission"
 
 **Format**
 
-We solicit both full (6 to 8 pages) and short (2 to 4 pages) research papers that will present original, previously unpublished, research. They must be at most 8- or 4-page long, including figures and references. All papers must follow AAAI formatting guidelines. Formatting instructions are available via the [2017 AAAI Press Author Kit](http://www.aaai.org/Publications/Templates/AuthorKit17.zip).
+We solicit both full papers (6 to 8 pages) and extended abstracts (2 to 4 pages) that will present original, previously unpublished, research. All papers must follow AAAI formatting guidelines. Formatting instructions are available via the [2017 AAAI Press Author Kit](http://www.aaai.org/Publications/Templates/AuthorKit17.zip).
 
 Full paper authors will be allowed 25 minutes total (about a 20 minute talk with 5 minutes of questions) to present their work. Short paper authors will be allowed 15 minutes (about a 12-minute talk with 3 minutes of questions) to present their work.
 
