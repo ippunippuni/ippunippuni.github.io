@@ -20,3 +20,6 @@ Recently, web logs and/or social media have been used as a mean to capture the p
 
 **Theme 3: Interplay between news and public opinion.**
 By linking news and public opinion, we aim to quantify the impact of each of news article or news story and how it shapes public opinion.  We will also discuss what is the practical implication of the research (e.g. for newsroom). Relevant topics are (but not limited): Impact of news on public opinion, influence of public opinion on news, and mapping between news and public opinion.
+
+**Special Theme 1: Fake news.**   
+After the US presidential election, fake news has received a lot of attention from both academia and industry. There are many components regarding fake news: detecting fake news, users’ motivation of sharing fake news, the effect of fake news in shaping public opinion or the election result, filter bubbles and echo chambers of news feed in social media, and how to lessen the effect of misinformation. 

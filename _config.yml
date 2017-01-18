@@ -1,5 +1,5 @@
-title:            The first international workshop on NEws and publiC Opinion at ICWSM 2016
-description:      NECO 2016
+title:            The second international workshop on NEws and publiC Opinion at ICWSM 2017
+description:      NECO 2017
 logo:             neco_logo_cat.gif
 disqus_shortname: JisunAn
 share:            true
@@ -14,9 +14,9 @@ baseurl: ""
 owner:
   name:           NECO 
   avatar:         
-  email:          neco2016@easychair.org
+  email:          neco2017@easychair.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    The First International Workshop on NEws and publiC Opinion
+  description:    The Second International Workshop on NEws and publiC Opinion
   # Social networking links used in footer. Update and remove as you like.
   twitter:        neco_workshop
   facebook:       
@@ -46,10 +46,12 @@ links:
     url: /dataset
   - title: Organization
     url: /organization
-  - title: Accepted papers
-    url: /acceptedpapers
+  # - title: Accepted papers
+  #   url: /acceptedpapers
   - title: Program
     url: /program
+  - title: Past Editions
+    url: /past
   # - title: Featured Posts
   #   url: /featured
   # - title: Categories
