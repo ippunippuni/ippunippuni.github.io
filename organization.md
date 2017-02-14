@@ -15,29 +15,39 @@ permalink: /organization/index.html
 
 **Program Committee members** (This list is continually being updated.)
 
-Angela Lee, University of Texas at Dallas 
+Andreas Jungherr, University of Konstanz
 
 Arkaitz Zubiaga, University of Warwick
 
-Hitoshi Nishikawa, Tokyo Institute of Technology    
+Bahareh Heravi, University College Dublin
+
+Benjamin D. Horne, Rensselaer Polytechnic Institute
+
+Carlos Castillo, Eurecat
+
+Chenhao Tan, University of Washington
 
 Diego Saez-Trumper, Eurecat
 
+Hywel T.P. Williams, University of Exeter
+
+Kiran Garimella, Aalto University
+
+Matthew J. Williams, University of Birmingham
+
 Nicholas Diakopoulos, University of Maryland
 
-Souneil Park, Telefonica Research   
+Ruth Garcia Gavilanes, SkyScanner
 
-Augustin Chaintreau, Columbia University
+Scott Wright, University of Melborne
 
-Andreas Jungherr, University of Mannheim
+Shaojing Sun, Fudan University
 
-Ruth Garcia Gavilanes,  Oxford Internet Institute   
+Souneil Park, Telefonica Research
 
-Carlos  Castillo, Eurecat
+Wei Lu, Wuhan University
 
-Yelena Mejova, Qatar Computing Research Institute
+Yelena Mejova, Qatar Computing Research Institute, HBKU
 
-Dmytro Karamshuk, King's College London
-
-Andrew Guess, New York University 
+Yu Wang, University of Rochester Rochester
 
