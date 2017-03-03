@@ -11,7 +11,7 @@ We solicit both full papers (6 to 8 pages) and extended abstracts (2 to 4 pages)
 
 Full paper authors will be allowed 25 minutes total (about a 20 minute talk with 5 minutes of questions) to present their work. Short paper authors will be allowed 15 minutes (about a 12-minute talk with 3 minutes of questions) to present their work.
 
-(*Regarding Proceedings, we are contacting workshop chairs*) All accepted papers will be included in ICWSM workshop proceedings. However, you can opt out from the publication if you do not want to publish the work.
+All accepted papers will be included in ICWSM workshop proceedings. However, you can opt out from the publication if you do not want to publish the work.
 
 **Dates**
 
