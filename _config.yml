@@ -46,8 +46,8 @@ links:
     url: /dataset
   - title: Organization
     url: /organization
-  # - title: Accepted papers
-  #   url: /acceptedpapers
+  - title: Accepted papers
+    url: /acceptedpapers
   - title: Program
     url: /program
   - title: Past Editions
