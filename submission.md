@@ -19,7 +19,7 @@ Papers submission: March 4, 2017. (Anywhere in the world)
 
 Paper acceptance notification: March 11, 2017
 
-Final camera-ready paper due: March 18, 2017
+Final camera-ready paper due: <strike>March 18, 2017</strike> March 28, 2017
 
 NECO Workshops Day: May 15, 2017
 
