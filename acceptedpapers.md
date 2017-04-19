@@ -25,7 +25,7 @@ Yu Wang
 Alicja Piotrkowicz, Vania Dimitrova, Jahna Otterbacher and Katja Markert
 
 
-#####Platform Effects and News Engagement: A Reddit Case Study
+#####The Impact of Crowds on News Engagement: A Reddit Case Study
 Benjamin Horne and Sibel Adali
 
 
