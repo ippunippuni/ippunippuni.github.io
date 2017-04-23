@@ -28,7 +28,7 @@ Short paper: 10 mins for presentation, 5 mins for Q&A
 
 **3:30~4:00**   Coffee Break
 
-**4:00~4:25**   Yu Wang, *Tactics and Tallies: A Study of the 2016 U.S. Presidential Campaign Using Twitter 'Likes'*
+**4:00~4:25**   Yu Wang, Xiyang Zhang, and Jiebo Luo, *Tactics and Tallies: A Study of the 2016 U.S. Presidential Campaign Using Twitter 'Likes'*
 
 **4:25~4:50**   Alicja Piotrkowicz, Vania Dimitrova, Jahna Otterbacher and Katja Markert, *The Impact of News Values and Linguistic Style on the Popularity of Headlines on Twitter and Facebook*
 
