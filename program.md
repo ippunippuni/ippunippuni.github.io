@@ -8,7 +8,7 @@ permalink: /program/index.html
 
 Date: 15th May 2017 (Monday)
 
-Room: TBD
+Room: Symphonie 3B (Level 5 of the Hyatt Regency)
 
 Regular paper: 20 mins for presentation, 5 mins for Q&A 
 Short paper: 10 mins for presentation, 5 mins for Q&A 
