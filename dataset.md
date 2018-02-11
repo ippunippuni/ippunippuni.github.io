@@ -15,7 +15,7 @@ Yahoo has recently released a massive collection of user interactions on the new
 
 
 [The GDELT Project](http://www.gdeltproject.org/)  
-The GDELT project is one of the largest data collection of news.  Supported by Google Ideas, it monitors "the world's broadcast, print, and web news" around the world (see details [GDELT 2.0](http://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/)). They From February 2015,  GDELT continuously adds experimental features, such as categorizing "all of the news imagery" (see details [Visual GKG](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)). 
+The GDELT project is one of the largest data collection of news.  Supported by Google Ideas, it monitors "the world's broadcast, print, and web news" around the world (see details [GDELT 2.0](http://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/)). From February 2015,  GDELT continuously adds experimental features, such as categorizing "all of the news imagery" (see details [Visual GKG](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)). 
 
 
 
