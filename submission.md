@@ -16,11 +16,9 @@ Please note that the accepted paper will not be published. AAAI passed a new pol
 
 **Dates**
 
-Papers submission: March 27, 2018. (Anywhere in the world)
+Papers submission: April 30th, 2018. (Anywhere in the world)
 
-Paper acceptance notification: April 3, 2018
-
-Final camera-ready paper due: April 10, 2018
+Paper acceptance notification: May 14th, 2018
 
 NECO Workshops Day: June 25, 2018
 
