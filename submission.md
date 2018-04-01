@@ -7,11 +7,13 @@ description: "A quick guideline for submission"
 
 **Format**
 
-We solicit both full papers (6 to 8 pages) and extended abstracts (2 to 4 pages) that will present original, previously unpublished, research. All papers must follow AAAI formatting guidelines. Formatting instructions are available via the [2018 AAAI Press Author Kit](http://www.aaai.org/Publications/Templates/AuthorKit18.zip).
+We welcome both submissions on work in progress (2 to 4 pages) as well as full paper submissions at 8 pages long (at most 10 pages long, including figures and references). Note that the submitted works will not be included in the conference proceedings, making this a good opportunity for discussing works in progress.
+
+Please follow AAAI formatting guidelines. Formatting instructions are available via the [2018 AAAI Press Author Kit](http://www.aaai.org/Publications/Templates/AuthorKit18.zip). Also note that NECO-18 review is single-blind. 
 
 Full paper authors will be allowed 25 minutes total (about a 20 minute talk with 5 minutes of questions) to present their work. Short paper authors will be allowed 15 minutes (about a 12-minute talk with 3 minutes of questions) to present their work.
 
-Please note that the accepted paper will not be published. AAAI passed a new policy regarding the papers for all of its workshops and AAAI will no longer be publishing the technical reports for its workshops. 
+<!-- Please note that the accepted paper will not be published. AAAI passed a new policy regarding the papers for all of its workshops and AAAI will no longer be publishing the technical reports for its workshops.  -->
 
 
 **Dates**
