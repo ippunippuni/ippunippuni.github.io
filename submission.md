@@ -22,4 +22,4 @@ Paper acceptance notification: May 14th, 2018
 
 NECO Workshops Day: June 25, 2018
 
-You can submit your paper [here](https://easychair.org/conferences/?conf=neco2018).
+You can submit your paper [here](https://easychair.org/conferences/?conf=neco18).
