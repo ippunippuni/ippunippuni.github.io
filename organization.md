@@ -21,9 +21,12 @@ Arkaitz Zubiaga, University of Warwick
 
 Benjamin D. Horne, Rensselaer Polytechnic Institute
 
+Kiran Garimella, École polytechnique fédérale de Lausanne (EPFL)
+
 Nicholas Diakopoulos, University of Maryland
 
 Oliver Posegga, University of Bamberg
 
 Yong-Yeol Ahn, Indiana University Bloomington
+
 
