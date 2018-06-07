@@ -28,7 +28,7 @@ Short paper: 10 mins for presentation, 5 mins for Q&A (15 mins)
 
 **3:30~4:00**   Coffee Break
 
-**4:00~4:40**   
+**4:00~4:40**   Keynote by Nicholas Diakopoulos 
 
 **4:40~4:55**   Rijul Magu, Nabil Hossain and Henry Kautz, *Analyzing Uncivil Speech Provocation and Implicit Topics in Online Political News*
 
