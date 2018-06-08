@@ -14,7 +14,7 @@ permalink: /program/index.html
 <center>
 
 Time | Activity
-:---:|---
+:-----:|-----
 **1:30~1:40** | Welcome and Opening remarks
 **1:40~2:05** | Nabil Hossain, Thanh Thuy Trang Tran and Henry Kautz,  *Patterns of Creative Slang in Online Political Discourse*
 **2:05~2:20** | Maurício Gruppi, Benjamin Horne and Sibel Adali, *An Exploration of Misinformation Classification in Brazil and The U.S.*
