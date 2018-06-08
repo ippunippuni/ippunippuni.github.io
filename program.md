@@ -11,8 +11,6 @@ permalink: /program/index.html
 **Regular paper**: 20 mins for presentation, 5 mins for Q&A (25 mins)<br/>
 **Short paper**: 10 mins for presentation, 5 mins for Q&A (15 mins)
 
-<center>
-
 Time | Activity
 :-----:|-----
 **1:30~1:40** | Welcome and Opening remarks
@@ -26,5 +24,3 @@ Time | Activity
 **4:40~4:55** |  Rijul Magu, Nabil Hossain and Henry Kautz, *Analyzing Uncivil Speech Provocation and Implicit Topics in Online Political News*
 **4:55~5:20** |  Benjamin Horne and Sibel Adali, Richard Niemi and Yuncheng Li, *An Exploration of Verbatim Content Republishing by News Producers* 
 **5:20~5:30** |Closing Remark
-
-</center>
