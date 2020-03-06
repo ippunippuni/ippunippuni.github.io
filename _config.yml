@@ -1,5 +1,5 @@
-title:            The third international workshop on NEws and publiC Opinion at ICWSM 2018
-description:      NECO 2018
+title:            The fourth international workshop on NEws and publiC Opinion at ICWSM 2020
+description:      NECO 2020
 logo:             neco_logo_cat.gif
 disqus_shortname: JisunAn
 share:            true
@@ -14,9 +14,9 @@ baseurl: ""
 owner:
   name:           NECO 
   avatar:         
-  email:          neco2018@easychair.org
+  email:          neco2020@easychair.org
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    The Third International Workshop on NEws and publiC Opinion
+  description:    The Fourth International Workshop on NEws and publiC Opinion
   # Social networking links used in footer. Update and remove as you like.
   twitter:        neco_workshop
   facebook:       
