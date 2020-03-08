@@ -21,7 +21,6 @@ Papers submission: April 17, 2020. (Anywhere in the world)
 
 Paper acceptance notification: May 1, 2020.
 
-NECO Workshops Day: June 8, 2018.
+NECO Workshops Day: June 8, 2020.
 
-You can submit your paper [TBD]
-<!-- [here](https://easychair.org/conferences/?conf=neco18). -->
+You can submit your paper [here](https://easychair.org/conferences/?conf=neco20).
