@@ -7,21 +7,21 @@ description: "A quick guideline for submission"
 
 **Format**
 
-We welcome both submissions on work in progress (2 to 4 pages) as well as full paper submissions at 8 pages long (at most 10 pages long, including figures and references). Note that the submitted works will not be included in the conference proceedings, making this a good opportunity for discussing works in progress.
+Please follow the extended abstract template guidelines for [Word](https://drive.google.com/open?id=1rewZKrGfhpQkeVAVXQZJL9RIRFh39p50) and [LaTeX](https://drive.google.com/open?id=14BkY2fSykFvehZR2JuQO4ruxWDmKZCz-) for formatting instructions. Note that abstracts should be submitted as a PDF file no larger than 20MB. Submissions that exceed the 2-page limit (including figures and references) will be automatically rejected.
 
-Please follow AAAI formatting guidelines. Formatting instructions are available via the [2018 AAAI Press Author Kit](http://www.aaai.org/Publications/Templates/AuthorKit18.zip). Also note that NECO-18 review is single-blind. 
+The extended abstract should include a title and a list of 5 keywords, but no authors’ names or affiliations. The abstract should outline the main contribution, data and methods used, results, and the impact of the work. Authors are encouraged to include one figure in their submission (the figure counts towards the page limit).
 
-Full paper authors will be allowed 25 minutes total (about a 20 minute talk with 5 minutes of questions) to present their work. Short paper authors will be allowed 15 minutes (about a 12-minute talk with 3 minutes of questions) to present their work.
+Submissions will be non-archival, and the presented work can be already published, in preparation for publication elsewhere, or ongoing research. Submission implies willingness to present a talk or poster at the conference.
 
-<!-- Please note that the accepted paper will not be published. AAAI passed a new policy regarding the papers for all of its workshops and AAAI will no longer be publishing the technical reports for its workshops.  -->
-
+Paper authors will be allowed 20 minutes total (about a 15 minute talk with 5 minutes of questions) to present their work. 
 
 **Dates**
 
-Papers submission: April 30th, 2018. (Anywhere in the world)
+Papers submission: April 17, 2020. (Anywhere in the world)
 
-Paper acceptance notification: May 14th, 2018
+Paper acceptance notification: May 1, 2020.
 
-NECO Workshops Day: June 25, 2018
+NECO Workshops Day: June 8, 2018.
 
-You can submit your paper [here](https://easychair.org/conferences/?conf=neco18).
+You can submit your paper [TBD]
+<!-- [here](https://easychair.org/conferences/?conf=neco18). -->

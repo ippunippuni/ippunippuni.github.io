@@ -6,16 +6,18 @@ permalink: /organization/index.html
 
 **Organizers**
 
-**Dr. Jisun An** is a scientist at Qatar Computing Research Institute, HBKU. She received his Ph.D. in Computer Science from the University of Cambridge, UK in 2015. For her study, she was funded by EPSRC and she is now an honorable recipient of Google European Scholarship. She conducts interdisciplinary research connecting Computer Science and Journalism and Public opinion. Her Ph.D. was devoted to study news sharing on social media and recently she has been focused on applying statistical methods and machine learning techniques in capturing public opinion from social media. She has been member of the PC of major computer science conferences, including ICWSM 2012-17, WWW 2016-17, and SocInfo 2014-16. 
+**Dr. Jisun An** is a scientist at Qatar Computing Research Institute, HBKU. She is interested in doing data science in the area of journalism, politics, health, and computational social science. The research she does is highly interdisciplinary, which only can be achieved by combining theoretical foundations, computational methods such as NLP and machine learning, and massive computing capability. She received her Ph.D. in Computer Science from the University of Cambridge, UK in 2015. For her study, she was funded by EPSRC and she is now an honorable recipient of Google European Scholarship. She has been a member of the PC of major computer science conferences and computational social science conferences, including ICWSM 2012-20, WWW 2016-20, SocInfo 2014-17/20, IC2S2 2016-20. She also has been organizing a workshop on News and Public Opinion (NECO) 2016-18.
 
-**Dr. Haewoon Kwak** is a senior scientist at Qatar Computing Research Institute, HBKU with a background in computer science, and has studied online social networks for many years. He is a chair of social networks and graph analysis track in WWW 2016.  He is a lead author of “What is Twitter, a social network or news media?” (WWW 2010), which has been cited more than 4,500 times. Similar to his Twitter paper, he is always exploring new areas, such as his work on YouTube and other online social networks. At QCRI, Haewoon focuses on computational journalism, with special emphasis on bias of news media. His recent work is presented in Computational Journalism Symposium 2014 and 2015.
-
-**Dr. Fabrício Benevenuto** is an associate professor in the Computer Science Department of Federal University at Minas Gerais (UFMG). Fabrício received a Ph.D. in Computer Science in 2010, and his thesis received the most important Brazilian award, the CAPES best thesis award.  During his Ph.D., he held research intern positions at HP Labs (Palo Alto/CA) and MPI-SWS (Max Planck Institute for Software Systems). In 2013 Fabrício was elected member of the Brazilian Academy of Science. His research plans involve data mining, machine learning and natural language processing applied to extract knowledge from data to build innovative systems. His work on this field has led to a number of important publications and widely cited papers. Fabrício has been serving on TPC of top conferences in his field, such as ACM KDD, ACM WSDM, WWW, ACM SIGIR, ACM COSN, and ICWSM. The innovative aspect of his research has attracted the attention of several specialized blogs and even mass media channels such as The New York Times, BBC, The Huffington Post, MIT Tech Review, and New Scientist.   
+**Dr. Haewoon Kwak** is a senior scientist at Qatar Computing Research Institute, Hamad Bin Khalifa University.  He completed a Ph.D. in Computer Science at KAIST, studying structures and dynamics of online social networks.  He is a lead author of “What is Twitter, a social network or news media?” (WWW 2010), which has been cited more than 7,000 times.  His work has been featured by Nature News, ACM Tech News, BBC, The Times, The Economist, Slate, Scientific American, and so on.  He was a chair of social networks and graph analysis track in WWW 2016 and has been a program committee member for top conferences, including ICWSM and The Web.  He is also an editorial board member for Online Social Networks and Media (Elsevier) and Digital Journalism (T&F). 
 
 
-**Program Committee members** (This list is continually being updated.)
+**Dr. Fabrício Benevenuto** is an associate professor in the Computer Science Department of Federal University at Minas Gerais (UFMG). Recently, Fabrício received a prestigious scholarship from Humboldt foundation through which he was visiting faculty at MPI-SWS, Germany. His research on online social networks has resulted in many widely cited papers (i.e. h-index 39).   He is at the senior PC of ICWSM and he was ICWSM data co-chair (2016, 2017,  2018, and 2020). The innovative aspect of his research has attracted the attention of several specialized blogs and mass media channels such as The New York Times, BBC, The Huffington Post, MIT Tech Review, and New Scientist.
 
-Andreas Jungherr, University of Konstanz
+
+
+<!-- **Program Committee members** (This list is continually being updated.) -->
+
+<!-- Andreas Jungherr, University of Konstanz
 
 Arkaitz Zubiaga, University of Warwick
 
@@ -28,5 +30,5 @@ Nicholas Diakopoulos, University of Maryland
 Oliver Posegga, University of Bamberg
 
 Yong-Yeol Ahn, Indiana University Bloomington
-
+ -->
 
