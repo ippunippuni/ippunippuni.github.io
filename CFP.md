@@ -28,7 +28,8 @@ This year we would particularly appreciate your contiributions relating to the n
 
  
 **Note**   
-We are running our workshop in parallel with MEDIATE 2020, the Social and News Media Misinformation Workshop. If you are planning to submit your work, please consider the following as a rule of thumb: <br/>
+We are running our workshop in parallel with MEDIATE 2020, the Social and News Media Misinformation Workshop. <br/>
+If you are planning to submit your work, please consider the following as a rule of thumb: <br/>
 Social and News Media Misinformation: please submit to [MEDIATE](https://mediateworkshop.github.io/) <br/>
 News and Public Opinion: you are in the right place
 
