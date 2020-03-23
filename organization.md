@@ -17,12 +17,18 @@ permalink: /organization/index.html
 
 **Program Committee members** (This list is continually being updated.)
 
-Arkaitz Zubiaga, Queen Mary University of London 
+Arkaitz Zubiaga, Queen Mary University of London
+
 Oliver Posegga, University of Bamberg 
+
 Yelena Mejova, ISI Foundation 
+
 Juhi Kulshrestha, GESIS - Leibniz Institute for the Social Sciences 
+
 Kiran Garimella, MIT Institute for Data, Systems, and Society (IDSS) 
+
 Benjamin D. Horne, Rensselaer Polytechnic Institute 
+
 Kokil Jaidka, National University of Singapore
 
 <!-- Arkaitz Zubiaga, Queen Mary University of London <br/>
