@@ -6,16 +6,40 @@ permalink: /dataset/index.html
 
 >
 
-Computational journalism had been much depending on in-house, private data, and only a few researchers benefited from such data. Recently, there have been significant efforts to make valuable datasets publicly accessible for the research community.  We hope that NECO will be the place for researchers to discuss such datasets, including Yahoo News Feed dataset and GDELT dataset, as we introduce below.
+Computational journalism had been much depending on in-house, private data, and only a few researchers benefited from such data. Recently, there have been significant efforts to make valuable datasets publicly accessible for the research community.  We hope that NECO will be the place for researchers to discuss such datasets.
+
+**Coronavirus (COVID-19)--More will come...**
+
+For those interested in tracking the media narratives around COVID-19,<br/>
+[GDELT-Television news on COVID-19](https://blog.gdeltproject.org/a-new-dataset-for-exploring-the-coronavirus-narrative-on-television-news/) <br/>
+[GDELT-Online news on COVID-19](https://blog.gdeltproject.org/a-new-global-dataset-for-exploring-the-coronavirus-narrative-in-worldwide-english-online-news/)
+
+For those interested in understanding public around COVID-19, <br/>
+[COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs)
+
+For those interested in real-world statistics of COVID-19, <br/>
+[PyCOVID Package](https://github.com/kylemath/pycovid)
+[2019-nCoV Data Processing Pipelines and datasets](https://github.com/covid19-data/covid19-data)
+[COVID-19 Dashboard](https://yyahn.com/covid19)
 
 
+
+
+**Yahoo News Feed** <br/>
 [Yahoo News Feed dataset, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=75)  
 Yahoo has recently released a massive collection of user interactions on the news feeds of Yahoo services, including Yahoo News.  We appreciate Yahoo’s contribution to the research community and hope to see much inspiring works.
 
 
-
+**The GDELT Project** <br/>
 [The GDELT Project](http://www.gdeltproject.org/)  
 The GDELT project is one of the largest data collection of news.  Supported by Google Ideas, it monitors "the world's broadcast, print, and web news" around the world (see details [GDELT 2.0](http://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/)). From February 2015,  GDELT continuously adds experimental features, such as categorizing "all of the news imagery" (see details [Visual GKG](http://blog.gdeltproject.org/announcing-the-new-gdelt-visual-global-knowledge-graph-vgkg/)). 
+
+
+
+
+
+
+
 
 
 

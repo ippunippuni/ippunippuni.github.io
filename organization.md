@@ -15,11 +15,14 @@ permalink: /organization/index.html
 
 
 
-<!-- **Program Committee members** (This list is continually being updated.) -->
+**Program Committee members** (This list is continually being updated.)
+
+Arkaitz Zubiaga, Queen Mary University of London <br/>
+Oliver Posegga, University of Bamberg <br/>
+Yelena Mejova, ISI Foundation <br/>
+Juhi Kulshrestha, GESIS - Leibniz Institute for the Social Sciences <br/>
 
 <!-- Andreas Jungherr, University of Konstanz
-
-Arkaitz Zubiaga, University of Warwick
 
 Benjamin D. Horne, Rensselaer Polytechnic Institute
 
@@ -27,8 +30,7 @@ Kiran Garimella, École polytechnique fédérale de Lausanne (EPFL)
 
 Nicholas Diakopoulos, University of Maryland
 
-Oliver Posegga, University of Bamberg
 
-Yong-Yeol Ahn, Indiana University Bloomington
- -->
+Yong-Yeol Ahn, Indiana University Bloomington -->
+
 

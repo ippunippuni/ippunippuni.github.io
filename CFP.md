@@ -23,6 +23,12 @@ Theories on media influence have long been studied but in a limited setting main
 By linking news and public opinion, we aim to quantify the impact of news articles or news stories and how it shapes public opinion. We will also discuss what is the practical implication of the research (e.g. for newsroom). Relevant topics are (but not limited): Impact of news on public opinion, influence of public opinion on news, and mapping between news and public opinion. 
 
 
-<!-- **Special Theme 1: Corona Virus.**   
-After the US presidential election, fake news has received a lot of attention from both academia and industry. There are many components regarding fake news: detecting fake news, users’ motivation of sharing fake news, the effect of fake news in shaping public opinion or the election result, filter bubbles and echo chambers of news feed in social media, and how to lessen the effect of misinformation.  -->
+**Special Theme: Corona Virus.**   
+This year we would particularly appreciate your contiributions relating to the novel Coronavirus (COVID-19). By understanding news media and public on COVID-19, such as what news media report, how people feel, what are the most concerns and problems of people, what people are most fearful or hateful about, and how news media influence public feelings and emotions, we hope our efforts would help all of us to go through the hard times. We added some possible data sources for studying coronavirus. Please check the dataset page. 
+
+ 
+**Note**   
+We are running our workshop in parallel with MEDIATE 2020, the Social and News Media Misinformation Workshop. If you are planning to submit your work, please consider the following as a rule of thumb:
+Social and News Media Misinformation: please submit to [MEDIATE](https://mediateworkshop.github.io/)
+News and Public Opinion: you are in the right place
 

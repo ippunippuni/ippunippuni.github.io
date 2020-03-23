@@ -17,7 +17,7 @@ Paper authors will be allowed 20 minutes total (about a 15 minute talk with 5 mi
 
 **Dates**
 
-Papers submission: April 17, 2020. (Anywhere in the world)
+Papers submission: April 20, 2020. (Anywhere in the world)
 
 Paper acceptance notification: May 1, 2020.
 
