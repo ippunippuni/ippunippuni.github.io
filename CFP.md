@@ -24,7 +24,7 @@ By linking news and public opinion, we aim to quantify the impact of news articl
 
 
 **Special Theme: Corona Virus.**   
-This year we would particularly appreciate your contiributions relating to the novel Coronavirus (COVID-19). By understanding news media and public on COVID-19, such as what news media report, how people feel, what are the most concerns and problems of people, what people are most fearful or hateful about, and how news media influence public feelings and emotions, we hope our efforts would help all of us to go through the hard times. We added some possible data sources for studying coronavirus. Please check the dataset page. 
+This year we would particularly appreciate your contributions relating to the novel Coronavirus (COVID-19). By understanding news media and public on COVID-19, such as what news media report, how people feel, what are the most concerns and problems of people, what people are most fearful or hateful about, and how news media influence public feelings and emotions, we hope our efforts would help all of us to go through the hard times. We added some possible data sources for studying coronavirus. Please check the dataset page. 
 
  
 **Note**   
