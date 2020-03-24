@@ -31,22 +31,13 @@ Benjamin D. Horne, Rensselaer Polytechnic Institute
 
 Kokil Jaidka, National University of Singapore
 
-<!-- Arkaitz Zubiaga, Queen Mary University of London <br/>
-Oliver Posegga, University of Bamberg <br/>
-Yelena Mejova, ISI Foundation <br/>
-Juhi Kulshrestha, GESIS - Leibniz Institute for the Social Sciences <br/>
-Kiran Garimella, MIT Institute for Data, Systems, and Society (IDSS) <br/>
-Benjamin D. Horne, Rensselaer Polytechnic Institute <br/>
-Kokil Jaidka, National University of Singapore <br/>
- --><!-- Andreas Jungherr, University of Konstanz
+Gianmarco De Francisci Morales, ISI Foundation 
 
-Benjamin D. Horne, Rensselaer Polytechnic Institute
+Nicholas Diakopoulos, Northwestern University
 
-Kiran Garimella, École polytechnique fédérale de Lausanne (EPFL)
-
-Nicholas Diakopoulos, University of Maryland
+Andreas Jungherr, University of Konstanz
 
 
-Yong-Yeol Ahn, Indiana University Bloomington -->
+<!-- Yong-Yeol Ahn, Indiana University Bloomington --> 
 
 
