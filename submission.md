@@ -17,9 +17,9 @@ Paper authors will be allowed 20 minutes total (about a 15 minute talk with 5 mi
 
 **Dates**
 
-Papers submission: April 20, 2020. (Anywhere in the world)
+Papers submission: ~~April 20, 2020~~ Extended to April 30, 2020. (Anywhere in the world)
 
-Paper acceptance notification: May 1, 2020.
+Paper acceptance notification: ~~May 1, 2020~~ Extented to May 10, 2020.
 
 NECO Workshops Day: June 8, 2020.
 
