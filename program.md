@@ -38,7 +38,19 @@ Please note that due to the COVID-19, the workshop will be held virtually.
     </tr>
     <tr>
       <td style="text-align: center"><strong>10:30-11:30 EDT</strong></td>
-      <td>Contributed Talks</td>
+      <td><strong>Contributed Talks</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10:30-10:50 EDT</td>
+      <td>Concentrated news production and the role of the BBC in the UK's coronavirus coverage <br>by Laszlo Horvath, Susan Banducci and Katharine Tyler</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10:50-11:10 EDT</td>
+      <td>Measuring Public Opinion Online: Potentials and Pitfalls <br>by Indira Sen, Fabian Flöck, Katrin Weller and Claudia Wagner</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11:10-11:30 EDT</td>
+      <td>Google's Top Stories and the 'Fairness Doctrine' <br>by Eni Mustafaraj</td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>11:30-11:45 EDT</strong></td>
