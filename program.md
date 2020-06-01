@@ -34,11 +34,11 @@ Please note that due to the COVID-19, the workshop will be held virtually.
     </tr>
     <tr>
       <td style="text-align: center">09:15-09:45 EDT</td>
-      <td>TBD <br>by Deen Freelon, University of North Carolina at Chapel Hill</td>
+      <td>Tweeting Left, Right & Center: How users and attention are distributed across Twitter<br>by Deen Freelon, University of North Carolina at Chapel Hill</td>
     </tr>
     <tr>
       <td style="text-align: center">09:45-10:15 EDT</td>
-      <td>If a Tree Falls in the Forest: COVID-19, Media Choices, and Presidential Agenda Setting <br>by Masha Krupenkin, Boston College</td>
+      <td>Political audience diversity and algorithmic bias in news recommendation <br>by Giovanni Luca Ciampaglia, University of South Florida</td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>10:15-10:30 EDT</strong></td>
@@ -70,7 +70,7 @@ Please note that due to the COVID-19, the workshop will be held virtually.
     </tr>
     <tr>
       <td style="text-align: center">11:45-12:15 EDT</td>
-      <td>TBD <br>by Giovanni Luca Ciampaglia, University of South Florida</td>
+      <td>If a Tree Falls in the Forest: COVID-19, Media Choices, and Presidential Agenda Setting <br>by Masha Krupenkin, Boston College</td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>12:15~12:30</strong></td>
