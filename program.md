@@ -11,7 +11,7 @@ Please note that due to the COVID-19, the workshop will be held virtually.
 
 
 **Date**: June 8th from 9 AM to 12:45 PM EDT (tentative). <br/>
-**Virtual Room (URL)**: TBD <br/>
+**Virtual Room (URL)**: Please contact neco.workshop@gmail.com if you registered but haven't received the Zoom meeting invitation for NECO-20<br/>
 
 **Presentation for contributed talks**: 15 mins for presentation, 5 mins for Q&A (20 mins)
 
@@ -50,7 +50,7 @@ Please note that due to the COVID-19, the workshop will be held virtually.
     </tr>
     <tr>
       <td style="text-align: center">10:30-10:50 EDT</td>
-      <td>Concentrated news production and the role of the BBC in the UK's coronavirus coverage <br>by Laszlo Horvath, Susan Banducci and Katharine Tyler</td>
+      <td>Intermedia Agenda Setting and Concentrated News Production: The BBC's role in the UK’s coronavirus coverage <br>by Laszlo Horvath, Susan Banducci and Katharine Tyler</td>
     </tr>
     <tr>
       <td style="text-align: center">10:50-11:10 EDT</td>
