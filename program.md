@@ -29,19 +29,15 @@ Please note that due to the COVID-19, the workshop will be held virtually.
       <td><strong>Welcome and Opening remarks</strong></td>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>09:15-10:15 EDT</strong></td>
+      <td style="text-align: center"><strong>09:15-09:45 EDT</strong></td>
       <td><strong>Invited Talks</strong></td>
     </tr>
     <tr>
       <td style="text-align: center">09:15-09:45 EDT</td>
-      <td>Tweeting Left, Right & Center: How users and attention are distributed across Twitter<br>by Deen Freelon, University of North Carolina at Chapel Hill</td>
-    </tr>
-    <tr>
-      <td style="text-align: center">09:45-10:15 EDT</td>
       <td>Political audience diversity and algorithmic bias in news recommendation <br>by Giovanni Luca Ciampaglia, University of South Florida</td>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>10:15-10:30 EDT</strong></td>
+      <td style="text-align: center"><strong>09:45-10:30 EDT</strong></td>
       <td><strong>Break</strong></td>
     </tr>
     <tr>
@@ -65,15 +61,19 @@ Please note that due to the COVID-19, the workshop will be held virtually.
       <td><strong>Break</strong></td>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>11:45-12:15 EDT</strong></td>
+      <td style="text-align: center"><strong>11:45-12:40 EDT</strong></td>
       <td><strong>Invited Talks</strong></td>
     </tr>
     <tr>
       <td style="text-align: center">11:45-12:15 EDT</td>
       <td>If a Tree Falls in the Forest: COVID-19, Media Choices, and Presidential Agenda Setting <br>by Masha Krupenkin, Boston College</td>
+      <tr>
+      <td style="text-align: center">12:15-12:40 EDT</td>
+      <td>Tweeting Left, Right & Center: How users and attention are distributed across Twitter<br>by Deen Freelon, University of North Carolina at Chapel Hill</td>
+    </tr>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>12:15~12:30</strong></td>
+      <td style="text-align: center"><strong>12:40~12:45</strong></td>
       <td><strong>Closing Remark</strong></td>
     </tr>
   </tbody>
