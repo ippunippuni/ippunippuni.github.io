@@ -67,10 +67,10 @@ The video of the workshop is available [here](https://icwsm.org/virtual/v/worksh
     </tr>
     <tr>
       <td style="text-align: center">11:45-12:15 EDT</td>
-      <td>If a Tree Falls in the Forest: COVID-19, Media Choices, and Presidential Agenda Setting <a hred="https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Masha_Krupenkin.pdf">[Slides]</a> <br>by Masha Krupenkin, Boston College</td>
+      <td>If a Tree Falls in the Forest: COVID-19, Media Choices, and Presidential Agenda Setting <a href="https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Masha_Krupenkin.pdf">[Slides]</a> <br>by Masha Krupenkin, Boston College</td>
       <tr>
       <td style="text-align: center">12:15-12:40 EDT</td>
-      <td>Tweeting Left, Right & Center: How users and attention are distributed across Twitter <a hred="https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Deen_Freelon_slides.pdf">[Slides]</a> <a hred="https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Deen_Freelon_reports.pdf">[Report]</a> <br>by Deen Freelon, University of North Carolina at Chapel Hill</td>
+      <td>Tweeting Left, Right & Center: How users and attention are distributed across Twitter <a href="https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Deen_Freelon_slides.pdf">[Slides]</a> <a href="https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Deen_Freelon_reports.pdf">[Report]</a> <br>by Deen Freelon, University of North Carolina at Chapel Hill</td>
     </tr>
     </tr>
     <tr>
