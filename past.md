@@ -7,11 +7,12 @@ permalink: /past/index.html
 
 ># NECO 2020
 
-Please note that due to the COVID-19, the workshop was held virtually. 
+Please note that due to the COVID-19, the workshop was held virtually.
+
+The video of the workshop is available [here](https://icwsm.org/virtual/v/workshops_3.html) for those who registered for the workshop.
 
 Date: June 8th from 9 AM to 12:45 PM EDT<br/>
 Presentation for contributed talks: 15 mins for presentation, 5 mins for Q&A (20 mins)
-
 
 **09:00-09:15 EDT** Welcome and Opening remarks
 
@@ -23,11 +24,13 @@ Presentation for contributed talks: 15 mins for presentation, 5 mins for Q&A (20
 
 **10:30-11:30 EDT Contributed Talks**
 
-**10:30-10:50 EDT** Laszlo Horvath, Susan Banducci and Katharine Tyler, *Intermedia Agenda Setting and Concentrated News Production: The BBC's role in the UK’s coronavirus coverage* [ \[Slides\]](https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Laszlo_Horvath.pdf)
+**10:30-10:50 EDT** Laszlo Horvath, Susan Banducci and Katharine Tyler, *Intermedia Agenda Setting and Concentrated News Production: The BBC's role in the UK’s coronavirus coverage* [ \[Paper\]](http://workshop-proceedings.icwsm.org/abstract?id=2020_42)  [ \[Slides\]](https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Laszlo_Horvath.pdf)
 
 **10:50-11:10 EDT** Indira Sen, Fabian Flöck, Katrin Weller and Claudia Wagner, *Measuring Public Opinion Online: Potentials and Pitfalls* [ \[Slides\]](https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Indira_Sen.pdf)
 
-**11:10-11:30 EDT** Eni Mustafaraj, *Google's Top Stories and the 'Fairness Doctrine'* [ \[Slides\]](https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Eni_Mustafaraj.pdf)
+**11:10-11:30 EDT** Eni Mustafaraj, *Google's Top Stories and the 'Fairness Doctrine'* [ \[Paper\]](http://workshop-proceedings.icwsm.org/abstract?id=2020_41) [ \[Slides\]](https://github.com/ippunippuni/ippunippuni.github.io/raw/master/slides/NECO2020_Eni_Mustafaraj.pdf) 
+
+
 
 **11:30-11:45 EDT**  Break
 
